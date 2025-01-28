@@ -2,8 +2,8 @@ name: Update README Followers Badge
 
 on:
   schedule:
-    # Run this workflow daily at 12:00 AM UTC
-    - cron: "0 0 * * *"
+    # Run this workflow daily at 12:00 AM Chicago time (UTC-6)
+    - cron: "0 6 * * *"
 
   workflow_dispatch:
     # Allows you to trigger the workflow manually
@@ -21,15 +21,18 @@ jobs:
       - name: Update Followers Badge in README
         run: |
           echo "Updating Followers Badge..."
-          # Replace the placeholder in README.md with the dynamically generated badge
           followers_badge="<a href=\"https://github.com/mgusain1?tab=followers\"><img src=\"https://img.shields.io/github/followers/mgusain1?label=Followers&logo=github&style=for-the-badge\" alt=\"GitHub Followers\"/></a>"
-          sed -i "/<img src=.*shields.io.github.follower.*>/c\\${followers_badge}" README.md
+          sed -i "/<img src=.*shields.io.*followers.*>/c\\${followers_badge}" README.md
 
-      # Step 3: Commit and push changes to the repository
+      # Step 3: Commit and Push Changes
       - name: Commit and Push Changes
         run: |
           git config --global user.name "GitHub Actions Bot"
           git config --global user.email "actions@github.com"
           git add README.md
-          git commit -m "Update Followers Badge in README"
-          git push
+          if git diff --cached --quiet; then
+            echo "No changes to commit."
+          else
+            git commit -m "Update Followers Badge in README"
+            git push
+          fi
