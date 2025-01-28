@@ -38,3 +38,12 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mgusain1&show_icons=true&locale=en" alt="mgusain1" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mgusain1&" alt="mgusain1" /></p>
+
+
+<h3 align="left">GitHub Stats:</h3>
+<p align="left"> 
+  <a href="https://github.com/mgusain1?tab=followers">
+    <img src="https://img.shields.io/github/followers/mgusain1?label=Followers&logo=github&style=for-the-badge" alt="GitHub Followers"/>
+  </a>
+</p>
+
