@@ -1,27 +1,25 @@
 [![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Madhur Gusain</h1>
-<h3 align="center">Optimizing code and advancing solutions | Master's Student at IIT Chicago</h3>
+<h3 align="center">Backend & AI Systems Engineer | Ex-Nokia | MS CS at IIT Chicago</h3>
 <img align="center" alt="Coding" width="400" src="https://raw.githubusercontent.com/SupianIDz/SupianIDz/main/coding.gif"></img>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mgusain1&label=Profile%20views&color=0e75b6&style=flat" alt="mgusain1" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mgusain1" alt="mgusain1" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+- 🔭 I’m currently building **backend and AI systems using Python, Java, LLMs, and RAG pipelines**
 
-- 🔭 I’m currently working on **Artificial Intelligence**
+- 🌱 I’m currently focused on **distributed systems, AI engineering, and production-grade backend development**
 
-- 🌱 I’m currently learning **Machine Learning**
+- 👨‍💻 Featured projects include **ML Experiment Tracker, Education Chatbot, IIT Dining Bot, and AI workflow systems**
 
-- 👨‍💻 All of my projects are available at [https://app.netlify.com/teams/mgusain1/sites](https://app.netlify.com/teams/mgusain1/sites)
-
-- 💬 Ask me about **Cpp, React, Java, Springboot**
+- 💬 Ask me about **Python, Java, Spring Boot, REST APIs, distributed systems, RAG, and LLM workflows**
 
 - 📫 How to reach me **gusainshailesh17@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1nalof0zFQCo4G00R8kybNeSwGrd0SRSa/view?usp=sharing](https://drive.google.com/file/d/1nalof0zFQCo4G00R8kybNeSwGrd0SRSa/view?usp=sharing)
+- 📄 Resume **https://drive.google.com/file/d/1nalof0zFQCo4G00R8kybNeSwGrd0SRSa/view?usp=sharing**
 
-- ⚡ Fun fact **I read a lot but only science fiction and not my own coursework**
+- ⚡ Fun fact **I like science fiction, systems thinking, and debugging things until they finally make sense**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -38,11 +36,9 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mgusain1&" alt="mgusain1" /></p>
 
-
 <h3 align="left">GitHub Stats:</h3>
 <p align="left"> 
   <a href="https://github.com/mgusain1?tab=followers">
     <img src="https://img.shields.io/github/followers/mgusain1?label=Followers&logo=github&style=for-the-badge" alt="GitHub Followers"/>
   </a>
 </p>
-
